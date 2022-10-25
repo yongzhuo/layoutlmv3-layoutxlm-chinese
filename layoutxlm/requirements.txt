@@ -1,0 +1,13 @@
+datasets==1.6.2
+setuptools_scm==6.4.0
+torch==1.8.0
+torchvision==0.8.2+cu101
+transformers==4.5.1
+detectron2==0.3
+seqeval==1.2.2
+paddlepaddle==2.3.0
+paddlepaddle-gpu==2.3.1.post111
+paddleOCR==2.5.0.3
+opencv-python==4.6.0.66
+pytesseract==0.3.10
+tensorboardX==2.4

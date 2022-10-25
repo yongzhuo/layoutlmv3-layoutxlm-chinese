@@ -1,0 +1,12 @@
+{
+    "label2id": {
+        "paper": 0,
+        "resume": 1,
+        "email": 2
+    },
+    "id2label": {
+        "0": "paper",
+        "1": "resume",
+        "2": "email"
+    }
+}
